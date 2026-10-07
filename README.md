@@ -114,5 +114,3 @@ File-Handling-Mini-Python-Project
 ├── task04.py
 ├── student.txt
 ├── students.txt
-│
-└── screenshots
